@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "RequestBD",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
